@@ -1,0 +1,12 @@
+what is data?
+this is known as raw facts which we will be stroing and later we can fact them
+
+what is database?
+
+
+
+sql-https://www.edureka.co/blog/interview-questions/sql-interview-questions
+
+
+coding of java script - https://github.com/sudheerj/javascript-interview-questions/blob/master/coding-exercise/accidental-global.js
+https://www.edureka.co/blog/interview-questions/javascript-interview-questions/
